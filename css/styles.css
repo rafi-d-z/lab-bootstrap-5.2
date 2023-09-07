@@ -1,4 +1,15 @@
 /* Add custom css styles here */
+
+
 header{
+    text-align: center;
+    padding: 200px;
+    background-image: url(coffee-biscuits.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.header2{
     text-align: center;
 }
