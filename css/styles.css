@@ -10,8 +10,6 @@ header{
     color: white;
 }
 
-header
-
 .header2{
     text-align: center;
     margin-top: 50px;
@@ -23,4 +21,6 @@ header
     height: 300px;
     padding: 100px;
     border-radius: 25px;
+    min-width: 500px;
+    align-self: center;
 }
