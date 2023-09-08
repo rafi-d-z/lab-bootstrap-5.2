@@ -10,6 +10,17 @@ header{
     color: white;
 }
 
+header
+
 .header2{
     text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.box1{
+    background-color: rgba(36, 23, 0, 0.5);
+    height: 300px;
+    padding: 100px;
+    border-radius: 25px;
 }
